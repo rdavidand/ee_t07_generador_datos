@@ -1,4 +1,4 @@
-Maria
+María
 Valeria
 Santiago
 Miguel Ángel
@@ -28,7 +28,7 @@ Natalia
 Ángel Gabriel
 Regina
 Fernando
-Danna Paola
+Dana Paola
 Emmanuel
 Guadalupe
 Ángel
@@ -85,18 +85,18 @@ José Eduardo
 Diana
 Juan Diego
 Ana Karen
-Josue
-Jazmin
-Brayan
+Josué
+Jazmín
+Bryan
 Marisol
 Manuel
 Paulina
-Adrian
+Adrián
 Estefanía
 Juan Manuel
 Itzel
 Uriel
-Isabella
+Isabela
 Omar
 Jaqueline
 Carlos
@@ -106,7 +106,7 @@ Alexa
 Julio César
 Melissa 
 Oscar
-Samantha
+Samanta
 Francisco Javier
 Karla
 Samuel
@@ -123,8 +123,8 @@ Gael
 Adriana
 Jesús Eduardo
 Jacqueline
-Issac
-Yoselin
+Isaac
+Joselyn
 Israel
 María Isabel
 Jesús Antonio
@@ -150,17 +150,17 @@ Miriam
 Jorge
 Alexandra
 Jesús Alejandro
-Sarahí
+Sarah
 Iván
 Karina
 Luis Enrique
-Lizeth
+Lizbeth
 Arturo
 Lucero
 Ángel de Jesús
 Ximena Guadalupe
 Aarón
-Evelín
+Evelin
 Juan Antonio
 Karen
 Erick
@@ -180,15 +180,15 @@ Berenice
 César
 Fabiola
 Abraham
-Yuliana
+Juliana
 José Armando
-Angela
+Ángela
 Nicolás
 Dana Paola
 Luis Eduardo
 Fátima Guadalupe
 Enrique
-Yaretzi
+Alfonso
 Sergio
 Isabel
 Pablo
@@ -197,4 +197,4 @@ Ana Victoria
 Rosa Isela 
 Ángel David
 Sandra
-Saúl 
+Saúl
